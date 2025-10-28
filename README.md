@@ -6,7 +6,7 @@
   * [Table of contents](#table-of-contents)
   * [Prerequisites](#prerequisites)
   * [VSCode Dev Container](#vscode-dev-container)
-  * [Manage Local k8s Cluster](#manage-local-k8s-cluster)
+  * [Manage Local k8s Cluster](#manage-local-k8 s-cluster)
     + [Cluster Creation](#cluster-creation)
     + [Cluster Connection](#cluster-connection)
     + [Deployment to Cluster](#deployment-to-cluster)
